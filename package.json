@@ -1,0 +1,14 @@
+{
+  "name": "http-query-fields-for-mongo",
+  "version": "0.0.1",
+  "description": "Set of fields to convert http to mongo query",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.0"
+  }
+}
